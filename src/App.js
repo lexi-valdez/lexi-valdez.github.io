@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <p> This is my portfolio page. It is a work in progress. </p>
+    <p> This is a work in progress. </p>
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />
